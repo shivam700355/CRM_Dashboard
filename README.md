@@ -89,3 +89,12 @@ cd upicondashboard
 ![Screenshot](resources/css/Screenshot%202025-04-22%20114626.png)
 ![Screenshot](https://github.com/your-username/your-repo/blob/main/docs/images/screenshot-1.png?raw=true)
 
+## 📸 Screenshots
+
+<img src="docs/images/screenshot-2025-04-22-114828.png" width="100%" height="auto" alt="Screenshot 1" />
+<br><br>
+
+<img src="docs/images/screenshot-2025-04-22-114707.png" width="100%" height="auto" alt="Screenshot 2" />
+<br><br>
+
+<img src="docs/images/screenshot-2025-04-22-114626.png" width="100%" height="auto" alt="Screenshot 3" />
