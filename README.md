@@ -87,4 +87,5 @@ cd upicondashboard
 ![Screenshot](resources/css/Screenshot%202025-04-22%20114828.png)
 ![Screenshot](resources/css/Screenshot%202025-04-22%20114707.png)
 ![Screenshot](resources/css/Screenshot%202025-04-22%20114626.png)
+![Screenshot](https://github.com/your-username/your-repo/blob/main/docs/images/screenshot-1.png?raw=true)
 
