@@ -1,0 +1,8 @@
+user_id,fe_name,bc_name,phone,district,state,bank_name,ko_code,issue,call_status,attend_by,call_close,remark
+67,Ashish Narayan Pandey,Hansnath Yadav,9415842803,Lucknow,Uttar Pradesh,Bank of Baroda,19560001,NULL,NULL,NULL,14-03-2023 05:02,NULL
+67,Ashish Narayan Pandey,Mohsin Mirza,8081024365,Lucknow,Uttar Pradesh,Bank of Baroda,19560006,NULL,NULL,NULL,14-03-2023 05:02,NULL
+67,Ashish Narayan Pandey,Shiva Rao,8299462241,Lucknow,Uttar Pradesh,Bank of Baroda,19560009,NULL,NULL,NULL,14-03-2023 05:02,NULL
+66,Ashish Narayan Pandey,Raj Bahadur,8299199453,Lucknow,Uttar Pradesh,Bank of Baroda,19560039,NULL,NULL,NULL,14-03-2023 05:02,NULL
+63,Ashish Yadav,Shailendra Maurya,8853857448,Raebareli,Uttar Pradesh,Bank of Baroda,19560016,NULL,NULL,NULL,14-03-2023 05:02,NULL
+67,Ashish Yadav,Santosh Jaiswal,9453724652,Raebareli,Uttar Pradesh,Bank of Baroda,19560015,NULL,NULL,NULL,14-03-2023 05:02,NULL
+67,Ashish Yadav,Brijesh Singh,9451073428,Raebareli,Uttar Pradesh,Bank of Baroda,19560014,NULL,NULL,NULL,14-03-2023 05:02,NULL
